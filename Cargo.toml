@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/cloudicp_backend"
+]
+resolver = "2"
